@@ -1,2 +1,3 @@
-# fav-atom-packages
-Must have Atom Packages
+# Must have Atom Packages
+
+First download Atom: https://atom.io/
