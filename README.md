@@ -11,3 +11,4 @@ First download Atom: https://atom.io/
 * [minimap](https://atom.io/packages/minimap)
 * [remote-ftp](https://atom.io/packages/remote-ftp)
 * [split-diff](https://atom.io/packages/split-diff)
+* [file-icons](https://atom.io/packages/file-icons)
