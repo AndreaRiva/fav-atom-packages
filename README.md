@@ -1,6 +1,6 @@
 # Must have Atom Packages
 
-First download Atom: https://atom.io/
+Download Atom: https://atom.io/
 
 * [autoclose-html](https://atom.io/packages/autoclose-html)
 * [highlight-selected](https://atom.io/packages/highlight-selected)
