@@ -4,6 +4,7 @@ brew install linter
 brew install linter-htmlhint
 brew install linter-jshint
 brew install linter-php
+brew install remark-lint
 brew install minimap
 brew install remote-ftp
 brew install split-diff
