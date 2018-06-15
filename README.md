@@ -1,4 +1,4 @@
-# Must have Atom Packages
+# My Favourite Packages
 
 Download Atom: https://atom.io/
 
