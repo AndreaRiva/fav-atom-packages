@@ -2,8 +2,6 @@
 
 Download Atom: https://atom.io/
 
-Take a look at the Packages page https://atom.io/packages
-
 * [autoclose-html](https://atom.io/packages/autoclose-html)
 * [highlight-selected](https://atom.io/packages/highlight-selected)
 * [linter](https://atom.io/packages/linter)
