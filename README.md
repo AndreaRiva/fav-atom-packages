@@ -16,4 +16,4 @@ Download Atom: https://atom.io/
 
 
 ## Installing on macOs
-You have to run the Atom > Install Shell Commands menu option to install it again if you aren't able to run it from a terminal. For more information (click here)[https://github.com/atom/apm]
+You have to run the Atom > Install Shell Commands menu option to install it again if you aren't able to run it from a terminal. For more information [click herehttps](://github.com/atom/apm).
