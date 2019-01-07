@@ -13,3 +13,7 @@ Download Atom: https://atom.io/
 * [remote-ftp](https://atom.io/packages/remote-ftp)
 * [split-diff](https://atom.io/packages/split-diff)
 * [file-icons](https://atom.io/packages/file-icons)
+
+
+## Installing on macOs
+You have to run the Atom > Install Shell Commands menu option to install it again if you aren't able to run it from a terminal (macOS only).
